@@ -26,7 +26,7 @@ function index (data) {
                 <h1>HOMEPAGE</h1>
                 <p>Places and Hotspots</p>
                 <div className='row'>
-                {placesFormatted}
+                 {placesFormatted}
                 </div>
             </main>
             
