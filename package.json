@@ -7,7 +7,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "serve -s build",
+    "dev": "react-script start",
     "test": "echo \"Error: no test specified\" && exit 1"
     
   },
